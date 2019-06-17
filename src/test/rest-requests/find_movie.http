@@ -1,0 +1,10 @@
+GET http://localhost:8080/api/movies/future
+Accept: application/json
+Content-Type: application/json
+Cache-Control: no-cache
+
+###
+
+
+
+

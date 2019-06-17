@@ -1,0 +1,21 @@
+POST http://localhost:8080/showings
+Accept: application/json
+Content-Type: application/json
+Cache-Control: no-cache
+
+
+{
+  "movie": {
+    "id": 1
+  },
+  "cinema": {
+    "id": 5
+  },
+  "beginTime": 1559372400000,
+  "endTime": 1559379600000
+}
+
+###
+
+
+

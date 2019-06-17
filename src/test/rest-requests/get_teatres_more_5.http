@@ -1,0 +1,11 @@
+GET http://localhost:8080/api/reports/cinema?showingThreshold=5&beginDate=201-06-01&endDate=2019-06-01
+Cache-Control: no-cache
+Authorization: Basic YWRtaW46YWRtaW4=
+
+<> 2019-06-17T031711.200.json
+<> 2019-06-17T031658.200.json
+<> 2019-06-17T031637.200.json
+<> 2019-06-17T031614.200.json
+
+###
+

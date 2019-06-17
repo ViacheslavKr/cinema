@@ -1,0 +1,16 @@
+POST http://localhost:8080/api/movies
+Accept: application/json
+Content-Type: application/json
+Cache-Control: no-cache
+
+
+{
+  "title": "Start Track 5",
+  "duration": 5000
+}
+
+
+###
+
+
+

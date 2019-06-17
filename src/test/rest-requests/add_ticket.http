@@ -1,0 +1,18 @@
+POST http://localhost:8080/tickets
+Accept: application/json
+Content-Type: application/json
+Cache-Control: no-cache
+
+
+{
+  "showing": {
+    "id": 106
+  },
+  "price": 88,
+  "customer": "Customer 1"
+}
+
+###
+
+
+

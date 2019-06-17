@@ -1,0 +1,8 @@
+GET http://localhost:8080/api/reports/box/1/1?beginDate=2019-06-01&endDate=2019-06-01
+Cache-Control: no-cache
+Authorization: Basic YWRtaW46YWRtaW4=
+
+
+
+###
+
